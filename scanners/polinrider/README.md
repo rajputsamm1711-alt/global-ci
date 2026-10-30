@@ -28,7 +28,7 @@ Add to any repo's `.github/workflows/ci.yml`:
 ```yaml
 jobs:
   polinrider:
-    uses: luxodd/global-ci/.github/workflows/polinrider-scan.yml@main
+    uses: rajputsamm1711-alt/global-ci/.github/workflows/polinrider-scan.yml@main
 ```
 
 ## Exit codes
