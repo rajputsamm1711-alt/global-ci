@@ -63,5 +63,5 @@ jobs:
         if: failure()
         run: |
           echo "::error::PolinRider indicators detected — merge blocked."
-          echo "::error::Remediation: https://github.com/luxodd/global-ci/blob/main/scanners/polinrider/README.md"
+          echo "::error::Remediation: https://github.com/rajputsamm1711-alt/global-ci/blob/main/scanners/polinrider/README.md"
           exit 1
